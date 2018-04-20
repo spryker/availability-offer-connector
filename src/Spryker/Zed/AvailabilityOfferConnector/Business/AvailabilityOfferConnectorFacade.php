@@ -16,6 +16,8 @@ use Spryker\Zed\Kernel\Business\AbstractFacade;
 class AvailabilityOfferConnectorFacade extends AbstractFacade implements AvailabilityOfferConnectorFacadeInterface
 {
     /**
+     * {@inheritdoc}
+     *
      * @api
      *
      * @param \Generated\Shared\Transfer\OfferTransfer $offerTransfer
