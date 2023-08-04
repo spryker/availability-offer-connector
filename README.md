@@ -4,6 +4,8 @@
 
 AvailabilityOfferConnector module.
 
+**DEPRECATED - This module is not continued at this point.**
+
 ## Installation
 
 ```
